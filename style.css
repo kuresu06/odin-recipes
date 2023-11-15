@@ -1,0 +1,19 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.title{
+    text-align: center;
+    font-size: 50px;
+    background-color: bisque;
+}
+
+.text{
+    font-size: 30px;
+}
+
+.bananas{
+    background-color: red;
+    color: white;
+}
