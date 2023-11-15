@@ -1,6 +1,5 @@
 *{
     font-family: 'Times New Roman', Times, serif;
-    text-align: center;
 }
 
 .title{
@@ -13,7 +12,21 @@
     font-size: 30px;
 }
 
-.bananas{
+#banana{
     background-color: red;
+    color: white;
+}
+
+.banana{
+    background-color: rgb(250, 224, 76);
+    text-align: center;
+}
+
+.small{
+    font-size: 10px;
+}
+
+.head{
+    background-color: black;
     color: white;
 }
