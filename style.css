@@ -1,18 +1,31 @@
 *{
     font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
 }
 
 .title{
     text-align: center;
-    font-size: 50px;
+    font-size: 80px;
     background-color: bisque;
 }
 
-.text{
-    font-size: 30px;
+#oats{
+    background-color: blanchedalmond;
 }
 
-#banana{
+.center{
+    text-align: center;
+}
+
+#sory{
+    text-align: right;
+}
+
+.choice{
+    font-size: 50px;
+}
+
+#idbanana{
     background-color: red;
     color: white;
 }
@@ -27,6 +40,14 @@
 }
 
 .head{
+    font-size: 50px;
+    text-align: center;
     background-color: black;
     color: white;
+}
+
+.mid{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
